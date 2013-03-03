@@ -1,6 +1,3 @@
-" Don't try to play nicely with vi
-set nocompatible
-
 " Allow buffers to be hidden, even if they're not saved.
 set hidden
 
