@@ -6,4 +6,12 @@ Symlink the vimrc file from the repository to your homedir
 
     ln -s ~/.vim/vimrc ~/.vimrc
 
-And you should up and running.
+Install Vundle 
+
+    git clone https://github.com/gmarik/vundle ~/.vim/bundle/vundle
+
+Start vim and install plugins and colorschemes with the command.
+
+    :BundleInstall
+
+Restart vim and you should be up and running.
