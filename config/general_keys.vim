@@ -20,3 +20,7 @@ nnoremap <leader>v V`]
 
 nmap <Leader>l :setlocal number!<CR>
 nmap <Leader>o :set paste!<CR>
+
+" Buffers
+nmap <Leader>b :ls<CR>b:<SPACE>
+nmap <Leader>bq :Kwbd<CR>
