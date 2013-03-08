@@ -10,8 +10,8 @@ Install Vundle
 
     git clone https://github.com/gmarik/vundle ~/.vim/bundle/vundle
 
-Start vim and install plugins and colorschemes with the command.
+Install plugins and colorschemes with the command.
 
-    :BundleInstall
+    vim +BundleInstall +all
 
-Restart vim and you should be up and running.
+Start vim and you should be up and running.
